@@ -10,8 +10,7 @@ The design and development of this prototype was completed my me and my partner,
 
 ### Video demonstration:
 
-![demo](media/demo.mov)
-
+[![demo](media/emg_demo.png)](https://youtu.be/JaAC3JycynY)
 ### Schematic:
 
 ![schematic](media/schematic.png)
